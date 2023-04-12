@@ -22,6 +22,7 @@ When the app starts, you can add new todos by typing in the input area and press
 You can show/hide completed todos by clicking the show/hide button.
 
 You can delete or mark todos as completed by clicking the icons on the todos.
+todoapp1259.netlify.app/
 
 ## Contributing
 
