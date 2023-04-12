@@ -33,7 +33,7 @@ const Navbar = () => {
             todowrite.current.value = ''
             console.log(todo)
         }else{
-            setUyari('You didn't write anything. Write something to add to-do')
+            setUyari('You didnt write anything. Write something to add to-do')
             setTimeout(() => {
                 setUyari('')
             },3000)
