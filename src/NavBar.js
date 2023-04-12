@@ -33,7 +33,7 @@ const Navbar = () => {
             todowrite.current.value = ''
             console.log(todo)
         }else{
-            setUyari('Hiçbir şey yazmadın. To-do eklemek için bir şeyler yaz')
+            setUyari('You didn't write anything. Write something to add to-do')
             setTimeout(() => {
                 setUyari('')
             },3000)
@@ -61,7 +61,7 @@ const Navbar = () => {
             const degercik = todo.filter(prev => prev.completed === true)
             setFilter(degercik)
             if(degercik.length === 0){
-                setUyari('Tamamladığın bir To-do YOK')
+                setUyari('There is no todo that YOU complete')
                 setTimeout(() => {
                     setUyari('')
                     setTodo(todo)
@@ -110,8 +110,8 @@ const Navbar = () => {
                           setGoster(!goster)
                           selectedTodo()
                       }} className={'bilgi-kutu2'}>
-                          <h1>Yapılanları</h1>
-                          <span>goster/gizle</span>
+                          <h1>Completed To-do</h1>
+                          <span>show/hide</span>
                           <h3>{completed}</h3>
                       </motion.div>
                   </div>
