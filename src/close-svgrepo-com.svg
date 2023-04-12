@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="800px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+    <title>close</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+</defs>
+    <g id="Vivid.JS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Vivid-Icons" transform="translate(-675.000000, -729.000000)">
+            <g id="Icons" transform="translate(37.000000, 169.000000)">
+                <g id="close" transform="translate(624.000000, 546.000000)">
+                    <g transform="translate(14.000000, 14.000000)" id="Shape">
+                        <polygon fill="#FF6E6E" points="21 18 18 21 10.5 13.5 3 21 0 18 7.5 10.5 0 3 3 0 10.5 7.5 18 0 21 3 13.5 10.5">
+</polygon>
+                        <path d="M6,18 L3,21 L0,18 L3,15 L6,18 Z M21,3 L18,6 L15,3 L18,0 L21,3 Z M15,18 L18,21 L21,18 L18,15 L15,18 Z M0,3 L3,6 L6,3 L3,0 L0,3 Z" fill="#0C0058">
+</path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
